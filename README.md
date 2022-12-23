@@ -19,7 +19,9 @@ How to contact me: Just send email to <a href = "mailto: dshl.srp@gmail.com">dsh
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
 
-![](https://komarev.com/ghpvc/?username=sergeiwerty&label=Profile%20views&color=blueviolet&style=flat)
+
+
+<p style="margin-top:2em;"><img src="https://komarev.com/ghpvc/?username=sergeiwerty&label=Profile%20views&color=blueviolet&style=for-the-badge" /></p>
 <!--
 **sergeiwerty/sergeiwerty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
