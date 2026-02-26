@@ -3,7 +3,7 @@
 
 I am passionate about web development. Now I am improving my skills in back-end development. Prefer Laravel as a framework.
 
-How to contact me: Just send email to <a href = "mailto: dshl.srp@gmail.com">dshl.srp@gmail.com</a>
+How to contact me: Just send email to <a href = "mailto: airion.fm@gmail.com">dshl.srp@gmail.com</a>
 
 <a href="https://www.linkedin.com/in/sergey-dishli-a83398199"><img alt="LinkedIn" title="LinkedIn" height="68" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 
